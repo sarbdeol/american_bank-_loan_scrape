@@ -1,0 +1,120 @@
+[
+  {
+    "bankName": "Bay Federal Credit Union",
+    "bankID": 787995,
+    "date": "04-06-2023",
+    "timestamp": "04-06-2023 23:38:09",
+    "bankUrl": "https://www.bayfed.com/products-services/rates",
+    "bankDetails": {
+      "loanType": "autoLoan",
+      "itemType": [
+        {
+          "type": "new",
+          "urlLink": "https://www.bayfed.com/products-services/rates/loan-rates",
+          "minPeriod": "",
+          "maxPeriod": 4,
+          "rateFrom": 6.49,
+          "rateTo": 11.99,
+          "maxAmount": "70,000"
+        },
+        {
+          "type": "new",
+          "urlLink": "https://www.bayfed.com/products-services/rates/loan-rates",
+          "minPeriod": "",
+          "maxPeriod": 5.5,
+          "rateFrom": 6.74,
+          "rateTo": 12.49,
+          "maxAmount": "70,000"
+        },
+        {
+          "type": "new",
+          "urlLink": "https://www.bayfed.com/products-services/rates/loan-rates",
+          "minPeriod": "",
+          "maxPeriod": 6,
+          "rateFrom": 6.99,
+          "rateTo": 12.74,
+          "maxAmount": "70,000"
+        },
+        {
+          "type": "new",
+          "urlLink": "https://www.bayfed.com/products-services/rates/loan-rates",
+          "minPeriod": "",
+          "maxPeriod": 7,
+          "rateFrom": 0,
+          "rateTo": 9.74,
+          "maxAmount": "70,000"
+        },
+        {
+          "type": "used",
+          "urlLink": "https://www.bayfed.com/products-services/rates/loan-rates",
+          "minPeriod": "",
+          "maxPeriod": 4,
+          "rateFrom": 6.49,
+          "rateTo": 11.99,
+          "maxAmount": "50,000"
+        }
+      ]
+    }
+  },
+  {
+    "bankName": "Bay Federal Credit Union",
+    "bankID": 787995,
+    "date": "04-06-2023",
+    "timestamp": "04-06-2023 23:38:12",
+    "bankUrl": "https://www.bayfed.com/products-services/rates",
+    "bankDetails": {
+      "loanType": "personalLoan",
+      "itemType": [
+        {
+          "type": "personalLoan",
+          "urlLink": "https://www.bayfed.com/products-services/rates/loan-rates",
+          "minPeriod": "",
+          "maxPeriod": "",
+          "rateFrom": 8.49,
+          "rateTo": 13.24,
+          "maxAmount": 50000
+        }
+      ]
+    }
+  },
+  {},
+  {
+    "bankName": "Bay Federal Credit Union",
+    "bankID": 787995,
+    "date": "04-06-2023",
+    "timestamp": "04-06-2023 23:38:14",
+    "bankUrl": "https://www.bayfed.com/products-services/rates",
+    "bankDetails": {
+      "loanType": "mortgageLoan",
+      "itemType": [
+        {
+          "type": "purchase",
+          "urlLink": "https://www.bayfed.com/products-services/rates/mortgage-rates",
+          "minPeriod": 10,
+          "maxPeriod": 30,
+          "aprFrom": 5.899,
+          "aprTo": 6.281,
+          "rateFrom": 5.625,
+          "rateTo": 6.125,
+          "maxAmount": "",
+          "variableAPR": false,
+          "fixedAPR": true
+        },
+        {
+          "type": "purchase",
+          "urlLink": "https://www.bayfed.com/products-services/rates/mortgage-rates",
+          "minPeriod": 10,
+          "maxPeriod": 30,
+          "aprFrom": 5.899,
+          "aprTo": 6.281,
+          "rateFrom": 5.625,
+          "rateTo": 6.125,
+          "maxAmount": "",
+          "variableAPR": true,
+          "fixedAPR": false
+        }
+      ]
+    }
+  },
+  {}
+]

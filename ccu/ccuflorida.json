@@ -1,0 +1,116 @@
+[
+  {
+    "bankName": "centralcu",
+    "bankID": 787995,
+    "date": "04-07-2023",
+    "timestamp": "04-07-2023 18:35:50",
+    "bankUrl": "https://www.centralcu.org/cu-info/rates",
+    "bankDetails": {
+      "loanType": "autoLoan",
+      "itemType": [
+        {
+          "type": "new",
+          "urlLink": "https://www.centralcu.org/cu-info/rates/loan-rates/#l4",
+          "minPeriod": 2.25,
+          "maxPeriod": 7,
+          "rateFrom": 3.9,
+          "rateTo": 7.25,
+          "maxAmount": ""
+        },
+        {
+          "type": "used",
+          "urlLink": "https://www.centralcu.org/cu-info/rates/loan-rates/#l4",
+          "minPeriod": 2.25,
+          "maxPeriod": 7,
+          "rateFrom": 3.9,
+          "rateTo": 7.25,
+          "maxAmount": ""
+        }
+      ]
+    }
+  },
+  {
+    "bankName": "centralcu",
+    "bankID": 787995,
+    "date": "04-07-2023",
+    "timestamp": "04-07-2023 18:35:52",
+    "bankUrl": "https://www.centralcu.org/cu-info/rates",
+    "bankDetails": {
+      "loanType": "personalLoan",
+      "itemType": [
+        {
+          "type": "personalLoan",
+          "urlLink": "https://www.centralcu.org/cu-info/rates/loan-rates/#l1",
+          "minPeriod": "",
+          "maxPeriod": "",
+          "rateFrom": 9.9,
+          "rateTo": "",
+          "maxAmount": ""
+        }
+      ]
+    }
+  },
+  {
+    "bankName": "centralcu",
+    "bankID": 787995,
+    "date": "04-07-2023",
+    "timestamp": "04-07-2023 18:35:55",
+    "bankUrl": "https://www.centralcu.org/cu-info/rates",
+    "bankDetails": {
+      "loanType": "mortgageLoan",
+      "itemType": [
+        {
+          "type": "purchase",
+          "urlLink": "https://www.centralcu.org/cu-info/rates/loan-rates/#l3",
+          "minPeriod": 5,
+          "maxPeriod": 10,
+          "aprFrom": 4.805,
+          "aprTo": 5.025,
+          "rateFrom": 4.75,
+          "rateTo": 5,
+          "maxAmount": "",
+          "variableAPR": false,
+          "fixedAPR": true
+        }
+      ]
+    }
+  },
+  {
+    "bankName": "centralcu",
+    "bankID": 787995,
+    "date": "04-07-2023",
+    "timestamp": "04-07-2023 18:36:00",
+    "bankUrl": "https://www.centralcu.org/cu-info/rates",
+    "bankDetails": {
+      "loanType": "helocLoan",
+      "itemType": [
+        {
+          "type": "helocLoan",
+          "urlLink": "https://www.centralcu.org/cu-info/rates/loan-rates/#l2",
+          "minPeriod": "",
+          "maxPeriod": "",
+          "rateFrom": 9,
+          "rateTo": 83,
+          "maxAmount": 99000,
+          "ltvFrom": " ",
+          "ltvTo": "",
+          "description": " ",
+          "default": true
+        },
+        {
+          "type": "homeEquity",
+          "urlLink": "https://www.centralcu.org/cu-info/rates/loan-rates/#l2",
+          "minPeriod": 5,
+          "maxPeriod": 10,
+          "rateFrom": 6.49,
+          "rateTo": 6.99,
+          "maxAmount": "",
+          "ltvFrom": "80",
+          "ltvTo": "",
+          "description": "Up to 80%",
+          "default": true
+        }
+      ]
+    }
+  }
+]

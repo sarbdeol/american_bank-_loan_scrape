@@ -1,0 +1,125 @@
+[
+  {
+    "bankName": "arizonafinancial",
+    "bankID": "",
+    "date": "04-06-2023",
+    "timestamp": "04-06-2023 23:21:34",
+    "bankUrl": "https://www.arizonafinancial.org/",
+    "bankDetails": {
+      "loanType": "autoLoan",
+      "itemType": [
+        {
+          "type": "new",
+          "urlLink": "https://www.arizonafinancial.org/auto-loan",
+          "minPeriod": 5,
+          "maxPeriod": 7,
+          "rateFrom": 5.89,
+          "rateTo": 6.99,
+          "maxAmount": ""
+        },
+        {
+          "type": "used",
+          "urlLink": "https://www.arizonafinancial.org/auto-loan",
+          "minPeriod": 5,
+          "maxPeriod": 7,
+          "rateFrom": 5.89,
+          "rateTo": 6.99,
+          "maxAmount": ""
+        }
+      ]
+    }
+  },
+  {
+    "bankName": "arizonafinancial",
+    "bankID": "",
+    "date": "04-06-2023",
+    "timestamp": "04-06-2023 23:21:36",
+    "bankUrl": "https://www.arizonafinancial.org/",
+    "bankDetails": {
+      "loanType": "personalLoan",
+      "itemType": [
+        {
+          "type": "personalLoan",
+          "urlLink": "https://www.arizonafinancial.org/personal-loans",
+          "minPeriod": 3,
+          "maxPeriod": 5,
+          "rateFrom": 10.75,
+          "rateTo": 13.25,
+          "maxAmount": ""
+        }
+      ]
+    }
+  },
+  {
+    "bankName": "arizonafinancial",
+    "bankID": "",
+    "date": "04-06-2023",
+    "timestamp": "04-06-2023 23:21:40",
+    "bankUrl": "https://www.arizonafinancial.org/",
+    "bankDetails": {
+      "loanType": "studentLoan",
+      "itemType": [
+        {
+          "type": "newLoan",
+          "urlLink": "https://www.salliemae.com/landing/student-loans/?__hstc=236286046.7c672951a96099eb0e61adb73b2aefb2.1677262052961.1677334423704.1677338582694.5&__hssc=236286046.1.1677338582694&__hsfp=1483251232&submissionGuid=d003d643-b105-4e8e-ac5f-b9c68124fe65&MPID=3000000007&dtd_cell=SMLRSOPACUCURCOTAAM0847N010000",
+          "minPeriod": 10,
+          "maxPeriod": 15,
+          "rateFrom": 4.5,
+          "rateTo": 14.83,
+          "maxAmount": "",
+          "variableAPR": false,
+          "fixedAPR": true
+        },
+        {
+          "type": "newLoan",
+          "urlLink": "https://www.salliemae.com/landing/student-loans/?__hstc=236286046.7c672951a96099eb0e61adb73b2aefb2.1677262052961.1677334423704.1677338582694.5&__hssc=236286046.1.1677338582694&__hsfp=1483251232&submissionGuid=d003d643-b105-4e8e-ac5f-b9c68124fe65&MPID=3000000007&dtd_cell=SMLRSOPACUCURCOTAAM0847N010000",
+          "minPeriod": 10,
+          "maxPeriod": 15,
+          "rateFrom": 5.62,
+          "rateTo": 15.95,
+          "maxAmount": "",
+          "variableAPR": true,
+          "fixedAPR": false
+        }
+      ]
+    }
+  },
+  {
+    "bankName": "arizonafinancial",
+    "bankID": "",
+    "date": "04-06-2023",
+    "timestamp": "04-06-2023 23:21:46",
+    "bankUrl": "https://www.arizonafinancial.org/",
+    "bankDetails": {
+      "loanType": "helocLoan",
+      "itemType": [
+        {
+          "type": "helocLoan",
+          "urlLink": "https://www.arizonafinancial.org/home-equity-line-of-credit-heloc",
+          "minPeriod": 10,
+          "maxPeriod": 15,
+          "rateFrom": 7.25,
+          "rateTo": "",
+          "maxAmount": "",
+          "ltvFrom": "80",
+          "ltvTo": "",
+          "description": "Up to 80%",
+          "default": true
+        },
+        {
+          "type": "homeEquity",
+          "urlLink": "https://www.arizonafinancial.org/home-equity-loan",
+          "minPeriod": 5,
+          "maxPeriod": 20,
+          "rateFrom": 6.25,
+          "rateTo": 7.5,
+          "maxAmount": "",
+          "ltvFrom": "80",
+          "ltvTo": "",
+          "description": "Up to 80%",
+          "default": true
+        }
+      ]
+    }
+  }
+]

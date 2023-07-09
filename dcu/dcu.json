@@ -1,0 +1,239 @@
+[
+	{
+	  "bankName": "dcu",
+	  "bankID": 787995,
+	  "date": "02-24-2023",
+	  "timestamp": "02-24-2023 23:44:51",
+	  "bankUrl": "https://www.dcu.org/",
+	  "bankDetails": {
+		"loanType": "autoLoan",
+		"itemType": [
+		  {
+			"type": "new",
+			"urlLink": "https://www.dcu.org/about/rates.html#Borrow:~:text=Vehicle%20Loans-,Auto,-Loans%20and%20Auto",
+			"minPeriod": 3,
+			"maxPeriod": 7,
+			"rateFrom": 5.24,
+			"rateTo": 7.74,
+			"maxAmount": ""
+		  },
+		  {
+			"type": "used",
+			"urlLink": "https://www.dcu.org/about/rates.html#Borrow:~:text=Vehicle%20Loans-,Auto,-Loans%20and%20Auto",
+			"minPeriod": 3,
+			"maxPeriod": 7,
+			"rateFrom": 7.74,
+			"rateTo": 10.24,
+			"maxAmount": ""
+		  }
+		]
+	  },
+	  "display": true,
+	  "error_log": "",
+	  "warning_log": ""
+	},
+	{
+	  "bankName": "dcu",
+	  "bankID": 787995,
+	  "date": "02-24-2023",
+	  "timestamp": "02-24-2023 23:44:52",
+	  "bankUrl": "https://www.dcu.org/",
+	  "bankDetails": {
+		"loanType": "personalLoan",
+		"itemType": [
+		  {
+			"type": "personalLoan",
+			"urlLink": "https://www.dcu.org/about/rates.html#:~:text=by%20contacting%20DCU.-,Personal,-Loans",
+			"minPeriod": "",
+			"maxPeriod": 5,
+			"rateFrom": 9.24,
+			"rateTo": "",
+			"maxAmount": ""
+		  }
+		]
+	  },
+	  "display": true,
+	  "error_log": "",
+	  "warning_log": ""
+	},
+	{
+	  "bankName": "dcu",
+	  "bankID": 787995,
+	  "date": "02-24-2023",
+	  "timestamp": "02-24-2023 23:44:53",
+	  "bankUrl": "https://www.dcu.org/",
+	  "bankDetails": {
+		"loanType": "studentLoan",
+		"itemType": [
+		  {
+			"type": "newLoan",
+			"urlLink": "https://www.dcu.org/about/rates.html#:~:text=Agreement%20for%20Consumers.-,Student%20Loans,-STUDENT%20LOANS%20%2D%20UNDERGRADUATE",
+			"minPeriod": "",
+			"maxPeriod": "",
+			"rateFrom": 8.75,
+			"rateTo": 14.75,
+			"maxAmount": "",
+			"variableAPR": false,
+			"fixedAPR": true
+		  },
+		  {
+			"type": "newLoan",
+			"urlLink": "https://www.dcu.org/about/rates.html#:~:text=Agreement%20for%20Consumers.-,Student%20Loans,-STUDENT%20LOANS%20%2D%20UNDERGRADUATE",
+			"minPeriod": "",
+			"maxPeriod": "",
+			"rateFrom": 6.75,
+			"rateTo": 12.75,
+			"maxAmount": "",
+			"variableAPR": true,
+			"fixedAPR": false
+		  },
+		  {
+			"type": "refinance",
+			"urlLink": "https://www.dcu.org/about/rates.html#:~:text=Agreement%20for%20Consumers.-,Student%20Loans,-STUDENT%20LOANS%20%2D%20UNDERGRADUATE",
+			"minPeriod": 5,
+			"maxPeriod": 15,
+			"rateFrom": 6.5,
+			"rateTo": 12,
+			"maxAmount": "",
+			"variableAPR": true,
+			"fixedAPR": false
+		  },
+		  {
+			"type": "refinance",
+			"urlLink": "https://www.dcu.org/about/rates.html#:~:text=Agreement%20for%20Consumers.-,Student%20Loans,-STUDENT%20LOANS%20%2D%20UNDERGRADUATE",
+			"minPeriod": 5,
+			"maxPeriod": 15,
+			"rateFrom": 7.5,
+			"rateTo": 13,
+			"maxAmount": "",
+			"variableAPR": false,
+			"fixedAPR": true
+		  }
+		]
+	  },
+	  "display": true,
+	  "error_log": "",
+	  "warning_log": ""
+	},
+	{
+	  "bankName": "dcu",
+	  "bankID": 787995,
+	  "date": "02-24-2023",
+	  "timestamp": "02-24-2023 23:44:55",
+	  "bankUrl": "https://www.dcu.org/",
+	  "bankDetails": {
+		"loanType": "mortgageLoan",
+		"itemType": [
+		  {
+			"type": "refinance",
+			"urlLink": "https://www.dcu.org/about/rates.html#:~:text=of%20the%20loan.-,Mortgage,-Loans",
+			"minPeriod": 10,
+			"maxPeriod": 30,
+			"aprFrom": 5.45,
+			"aprTo": 6.17,
+			"rateFrom": 5.375,
+			"rateTo": 6.125,
+			"maxAmount": "",
+			"variableAPR": false,
+			"fixedAPR": true
+		  },
+		  {
+			"type": "purchase",
+			"urlLink": "https://www.dcu.org/about/rates.html#:~:text=of%20the%20loan.-,Mortgage,-Loans",
+			"minPeriod": 10,
+			"maxPeriod": 30,
+			"aprFrom": 5.45,
+			"aprTo": 6.17,
+			"rateFrom": 5.375,
+			"rateTo": 6.125,
+			"maxAmount": "",
+			"variableAPR": false,
+			"fixedAPR": true
+		  },
+		  {
+			"type": "refinance",
+			"urlLink": "https://www.dcu.org/about/rates.html#:~:text=of%20the%20loan.-,Mortgage,-Loans",
+			"minPeriod": 5,
+			"maxPeriod": 10,
+			"aprFrom": 6.55,
+			"aprTo": 6.75,
+			"rateFrom": 5.5,
+			"rateTo": 6,
+			"maxAmount": "",
+			"variableAPR": true,
+			"fixedAPR": false
+		  },
+		  {
+			"type": "purchase",
+			"urlLink": "https://www.dcu.org/about/rates.html#:~:text=of%20the%20loan.-,Mortgage,-Loans",
+			"minPeriod": 5,
+			"maxPeriod": 10,
+			"aprFrom": 6.55,
+			"aprTo": 6.75,
+			"rateFrom": 5.5,
+			"rateTo": 6,
+			"maxAmount": "",
+			"variableAPR": true,
+			"fixedAPR": false
+		  }
+		]
+	  },
+	  "display": true,
+	  "error_log": "",
+	  "warning_log": ""
+	},
+	{
+	  "bankName": "dcu",
+	  "bankID": 787995,
+	  "date": "02-24-2023",
+	  "timestamp": "02-24-2023 23:44:57",
+	  "bankUrl": "https://www.dcu.org/",
+	  "bankDetails": {
+		"loanType": "helocLoan",
+		"itemType": [
+		  {
+			"type": "helocLoan",
+			"urlLink": "https://www.dcu.org/about/rates.html#:~:text=Line%20of%20Credit%20(-,HELOC,-)%20Rate",
+			"minPeriod": 1,
+			"maxPeriod": 20,
+			"rateFrom": 7.5,
+			"rateTo": "",
+			"maxAmount": "",
+			"ltvFrom": 60,
+			"ltvTo": "",
+			"description": "Up to 60%",
+			"default": true
+		  },
+		  {
+			"type": "homeEquity",
+			"urlLink": "https://www.dcu.org/about/rates.html#:~:text=per%20%241%2C000%20borrowed.-,FIXED%2DRATE%20HOME%20EQUITY,-LOAN%20RATES",
+			"minPeriod": 5,
+			"maxPeriod": 20,
+			"rateFrom": 5.62,
+			"rateTo": 6.1,
+			"maxAmount": "",
+			"ltvFrom": 60,
+			"ltvTo": "",
+			"description": "Up to 60%",
+			"default": true
+		  },
+		  {
+			"type": "homeEquity",
+			"urlLink": "https://www.dcu.org/about/rates.html#:~:text=Line%20of%20Credit%20(-,HELOC,-)%20Rate",
+			"minPeriod": 5,
+			"maxPeriod": 20,
+			"rateFrom": 6.33,
+			"rateTo": 6.68,
+			"maxAmount": "",
+			"ltvFrom": 90,
+			"ltvTo": "",
+			"description": "Up to 90%",
+			"default": false
+		  }
+		]
+	  },
+	  "display": true,
+	  "error_log": "",
+	  "warning_log": ""
+	}
+  ]

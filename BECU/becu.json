@@ -1,0 +1,211 @@
+[
+  {
+    "bankName": "becu",
+    "bankID": 787995,
+    "date": "04-07-2023",
+    "timestamp": "04-07-2023 18:02:49",
+    "bankUrl": "https://www.becu.org/loans-and-mortgages",
+    "bankDetails": {
+      "loanType": "autoLoan",
+      "itemType": [
+        {
+          "type": "new",
+          "urlLink": "https://www.becu.org/loans-and-mortgages/recreational-vehicle",
+          "minPeriod": "",
+          "maxPeriod": "",
+          "rateFrom": "5.74",
+          "rateTo": "",
+          "maxAmount": ""
+        },
+        {
+          "type": "used",
+          "urlLink": "https://www.becu.org/loans-and-mortgages/recreational-vehicle",
+          "minPeriod": "",
+          "maxPeriod": "",
+          "rateFrom": "6.49",
+          "rateTo": "",
+          "maxAmount": ""
+        }
+      ]
+    }
+  },
+  {
+    "bankName": "becu",
+    "bankID": 787995,
+    "date": "04-07-2023",
+    "timestamp": "04-07-2023 18:02:54",
+    "bankUrl": "https://www.becu.org/loans-and-mortgages",
+    "bankDetails": {
+      "loanType": "personalLoan",
+      "itemType": [
+        {
+          "type": "personalLoan",
+          "urlLink": "https://www.becu.org/loans-and-mortgages/personal",
+          "minPeriod": "",
+          "maxPeriod": "6",
+          "rateFrom": "8.74",
+          "rateTo": "",
+          "maxAmount": "30,000"
+        }
+      ]
+    }
+  },
+  {
+    "bankName": "becu",
+    "bankID": 787995,
+    "date": "04-07-2023",
+    "timestamp": "04-07-2023 18:02:57",
+    "bankUrl": "https://www.becu.org/loans-and-mortgages",
+    "bankDetails": {
+      "loanType": "studentLoan",
+      "itemType": [
+        {
+          "type": "newLoan",
+          "urlLink": "https://www.becu.org/loans-and-mortgages/student-loans/private-student-loans",
+          "minPeriod": "",
+          "maxPeriod": "",
+          "rateFrom": "7.38",
+          "rateTo": "",
+          "maxAmount": "100,000",
+          "variableAPR": false,
+          "fixedAPR": true
+        },
+        {
+          "type": "newLoan",
+          "urlLink": "https://www.becu.org/loans-and-mortgages/student-loans/private-student-loans",
+          "minPeriod": "",
+          "maxPeriod": "",
+          "rateFrom": "7.38",
+          "rateTo": "",
+          "maxAmount": "100,000",
+          "variableAPR": true,
+          "fixedAPR": false
+        },
+        {
+          "type": "refinance",
+          "urlLink": "https://www.becu.org/loans-and-mortgages/student-loans/refinance-student-loans",
+          "minPeriod": "",
+          "maxPeriod": "",
+          "rateFrom": "6.24",
+          "rateTo": "",
+          "maxAmount": "125,000",
+          "variableAPR": true,
+          "fixedAPR": false
+        },
+        {
+          "type": "refinance",
+          "urlLink": "https://www.becu.org/loans-and-mortgages/student-loans/refinance-student-loans",
+          "minPeriod": "",
+          "maxPeriod": "",
+          "rateFrom": "6.24",
+          "rateTo": "",
+          "maxAmount": "125,000",
+          "variableAPR": false,
+          "fixedAPR": true
+        }
+      ]
+    }
+  },
+  {
+    "bankName": "becu",
+    "bankID": 787995,
+    "date": "04-07-2023",
+    "timestamp": "04-07-2023 18:02:59",
+    "bankUrl": "https://www.becu.org/loans-and-mortgages",
+    "bankDetails": {
+      "loanType": "mortgageLoan",
+      "itemType": [
+        {
+          "type": "refinance",
+          "urlLink": "https://www.becu.org/rates/mortgage-rates",
+          "minPeriod": "15",
+          "maxPeriod": "30",
+          "aprFrom": 5.592,
+          "aprTo": 6.117,
+          "rateFrom": "",
+          "rateTo": "",
+          "maxAmount": "",
+          "variableAPR": false,
+          "fixedAPR": true
+        },
+        {
+          "type": "purchase",
+          "urlLink": "https://www.becu.org/rates/mortgage-rates",
+          "minPeriod": "15",
+          "maxPeriod": "30",
+          "aprFrom": 5.479,
+          "aprTo": 5.998,
+          "rateFrom": "",
+          "rateTo": "",
+          "maxAmount": "",
+          "variableAPR": false,
+          "fixedAPR": true
+        },
+        {
+          "type": "refinance",
+          "urlLink": "https://www.becu.org/rates/mortgage-rates",
+          "minPeriod": "15",
+          "maxPeriod": "30",
+          "aprFrom": 5.592,
+          "aprTo": 6.117,
+          "rateFrom": "",
+          "rateTo": "",
+          "maxAmount": "",
+          "variableAPR": true,
+          "fixedAPR": false
+        },
+        {
+          "type": "purchase",
+          "urlLink": "https://www.becu.org/rates/mortgage-rates",
+          "minPeriod": "15",
+          "maxPeriod": "30",
+          "aprFrom": 5.479,
+          "aprTo": 5.998,
+          "rateFrom": "",
+          "rateTo": "",
+          "maxAmount": "",
+          "variableAPR": true,
+          "fixedAPR": false
+        }
+      ]
+    }
+  },
+  {
+    "bankName": "becu",
+    "bankID": 787995,
+    "date": "04-07-2023",
+    "timestamp": "04-07-2023 18:03:02",
+    "bankUrl": "https://www.becu.org/loans-and-mortgages",
+    "bankDetails": {
+      "loanType": "helocLoan",
+      "itemType": [
+        {
+          "type": "helocLoan",
+          "urlLink": "https://www.becu.org/loans-and-mortgages/home-loans/home-equity",
+          "minPeriod": "",
+          "maxPeriod": "",
+          "rateFrom": "7.74",
+          "rateTo": "7.74",
+          "maxAmount": "",
+          "ltvFrom": "",
+          "ltvTo": "",
+          "description": "",
+          "default": true
+        },
+        {
+          "type": "homeEquity",
+          "urlLink": "https://www.becu.org/loans-and-mortgages/home-loans/fixed-rate",
+          "minPeriod": "",
+          "maxPeriod": "",
+          "rateFrom": "5.885",
+          "rateTo": "6.117",
+          "maxAmount": 726200,
+          "ltvFrom": "",
+          "ltvTo": "",
+          "description": "",
+          "default": true
+        }
+      ]
+    }
+  }
+]

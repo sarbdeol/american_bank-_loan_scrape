@@ -1,0 +1,183 @@
+[
+  {
+    "bankName": "americanheritagecu",
+    "bankID": 787995,
+    "date": "03-05-2023",
+    "timestamp": "03-05-2023 13:42:41",
+    "bankUrl": "https://www.americanheritagecu.org/rates",
+    "bankDetails": {
+      "loanType": "autoLoan",
+      "itemType": [
+        {
+          "type": "new",
+          "urlLink": "https://www.americanheritagecu.org/loans/auto-loans",
+          "minPeriod": 5.25,
+          "maxPeriod": 7,
+          "rateFrom": 5.99,
+          "rateTo": 6.74,
+          "maxAmount": ""
+        },
+        {
+          "type": "used",
+          "urlLink": "https://www.americanheritagecu.org/loans/auto-loans",
+          "minPeriod": 5.25,
+          "maxPeriod": 7,
+          "rateFrom": 5.99,
+          "rateTo": 6.74,
+          "maxAmount": ""
+        }
+      ]
+    }
+  },
+  {
+    "bankName": "americanheritagecu",
+    "bankID": 787995,
+    "date": "03-05-2023",
+    "timestamp": "03-05-2023 \r\n13:42:43",
+    "bankUrl": "https://www.americanheritagecu.org/rates",
+    "bankDetails": {
+      "loanType": "personalLoan",
+      "itemType": [
+        {
+          "type": "personalLoan",
+          "urlLink": "https://www.americanheritagecu.org/loans/personal-loans",
+          "minPeriod": 2,
+          "maxPeriod": 10,
+          "rateFrom": 10.24,
+          "rateTo": 14.24,
+          "maxAmount": ""
+        }
+      ]
+    }
+  },
+  {
+    "bankName": "americanheritagecu",
+    "bankID": 787995,
+    "date": "03-05-2023",
+    "timestamp": "03-05-2023 13:42:47",
+    "bankUrl": "https://www.americanheritagecu.org/rates",
+    "bankDetails": {
+      "loanType": "studentLoan",
+      "itemType": [
+        {
+          "type": "newLoan",
+          "urlLink": "https://www.salliemae.com/landing/student-loans/?__hstc=236286046.7c672951a96099eb0e61adb73b2aefb2.1677262052961.1677334423704.1677338582694.5&__hssc=236286046.1.1677338582694&__hsfp=1483251232&submissionGuid=d003d643-b105-4e8e-ac5f-b9c68124fe65&MPID=3000000007&dtd_cell=SMLRSOPACUCURCOTAAM0847N010000",
+          "minPeriod": 10,
+          "maxPeriod": 15,
+          "rateFrom": 4.5,
+          "rateTo": 14.83,
+          "maxAmount": "",
+          "variableAPR": false,
+          "fixedAPR": true
+        },
+        {
+          "type": "newLoan",
+          "urlLink": "https://www.salliemae.com/landing/student-loans/?__hstc=236286046.7c672951a96099eb0e61adb73b2aefb2.1677262052961.1677334423704.1677338582694.5&__hssc=236286046.1.1677338582694&__hsfp=1483251232&submissionGuid=d003d643-b105-4e8e-ac5f-b9c68124fe65&MPID=3000000007&dtd_cell=SMLRSOPACUCURCOTAAM0847N010000",
+          "minPeriod": 10,
+          "maxPeriod": 15,
+          "rateFrom": 5,
+          "rateTo": 1,
+          "maxAmount": "",
+          "variableAPR": true,
+          "fixedAPR": false
+        }
+      ]
+    }
+  },
+  {
+    "bankName": "americanheritagecu",
+    "bankID": 787995,
+    "date": "03-05-2023",
+    "timestamp": "03-05-2023 13:42:54",
+    "bankUrl": "https://www.americanheritagecu.org/rates",
+    "bankDetails": {
+      "loanType": "mortgageLoan",
+      "itemType": [
+        {
+          "type": "purchase",
+          "urlLink": "https://www.americanheritagecu.org/loans/mortgages",
+          "minPeriod": 3,
+          "maxPeriod": 30,
+          "rateFrom": 6.014,
+          "rateTo": 7.358,
+          "maxAmount": "",
+          "variableAPR": false,
+          "fixedAPR": true
+        },
+        {
+          "type": "purchase",
+          "urlLink": "https://www.americanheritagecu.org/loans/mortgages",
+          "minPeriod": 3,
+          "maxPeriod": 30,
+          "rateFrom": 6.014,
+          "rateTo": 7.358,
+          "maxAmount": "",
+          "variableAPR": true,
+          "fixedAPR": false
+        },
+        [
+          {
+            "type": "refinance",
+            "urlLink": "https://www.americanheritagecu.org/loans/mortgages",
+            "minPeriod": 10,
+            "maxPeriod": 30,
+            "rateFrom": 6.5,
+            "rateTo": 7.25,
+            "maxAmount": "",
+            "variableAPR": false,
+            "fixedAPR": true
+          },
+          {
+            "type": "refinance",
+            "urlLink": "https://www.americanheritagecu.org/loans/mortgages",
+            "minPeriod": 10,
+            "maxPeriod": 30,
+            "rateFrom": 6.5,
+            "rateTo": 7.25,
+            "maxAmount": "",
+            "variableAPR": true,
+            "fixedAPR": false
+          }
+        ]
+      ]
+    }
+  },
+  {
+    "bankName": "americanheritagecu",
+    "bankID": 787995,
+    "date": "03-05-2023",
+    "timestamp": "03-05-2023 13:42:56",
+    "bankUrl": "https://www.americanheritagecu.org/rates",
+    "bankDetails": {
+      "loanType": "helocLoan",
+      "itemType": [
+        {
+          "type": "FixedhomeEquity",
+          "urlLink": "https://www.americanheritagecu.org/loans/home-equity-loans",
+          "minPeriod": 20,
+          "maxPeriod": 20,
+          "rateFrom": 95,
+          "rateTo": 95,
+          "maxAmount": "1500000",
+          "ltvFrom": "",
+          "ltvTo": "",
+          "description": "Up to 80%",
+          "default": true
+        },
+        {
+          "type": "interest_onlyhomeEquity",
+          "urlLink": "https://www.americanheritagecu.org/loans/home-equity-loans",
+          "minPeriod": "",
+          "maxPeriod": "",
+          "rateFrom": 95,
+          "rateTo": 95,
+          "maxAmount": 1500000,
+          "ltvFrom": "",
+          "ltvTo": "",
+          "description": "Up to 80%",
+          "default": true
+        }
+      ]
+    }
+  }
+]
